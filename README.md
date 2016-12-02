@@ -1,4 +1,4 @@
 # hello-world
 
-#hi everyone! 
-#I'm a engineering student from italy
+hi everyone! 
+I'm a engineering student from italy
